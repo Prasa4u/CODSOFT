@@ -4,7 +4,7 @@ A basic calculator web application built using HTML, CSS, and JavaScript.
 
 ## Demo
 
-Try it here - https://codsoft-calc-gilt.vercel.app
+Try it here - https://calculator-gray-ten-66.vercel.app
 
 ## Description
 
