@@ -1,8 +1,8 @@
-# B.Cafe Responsive Landing Page
+# PC Farm Landing Page
 
-Welcome to B.Cafe's responsive landing page repository! This landing page was created using HTML, CSS, and JavaScript to provide an interactive user interface and fluid animations. 
+Welcome to the PC Farm Landing Page project! This project is designed to showcase a PC Parts and its services through an engaging and user-friendly web interface.
 
-You can try out the live version of the website here: https://b-cafe-landing-page.vercel.app/
+You can try out the live version of the website here: https://landing-page-sigma-sable.vercel.app
 
 ## Features
 
@@ -22,27 +22,16 @@ You can try out the live version of the website here: https://b-cafe-landing-pag
 To run the project locally, follow these steps:
 
 1. Clone the repository to your local machine:
+
    ```
-   git clone https://github.com/sagnikbose-11-01/CodSoft-Landing-Page.git
+   git clone https://github.com/Prasa4u/CODSOFT.git
    ```
 
 2. Navigate to the project directory:
+
    ```
-   cd CodSoft-Landing-Page
+   cd Codsoft
+   cd Task2 Landing Page
    ```
 
 3. Open the `index.html` file in your preferred web browser.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
