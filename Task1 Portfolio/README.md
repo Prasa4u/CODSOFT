@@ -4,7 +4,7 @@ Welcome to my portfolio website! This repository contains the source code for my
 
 ## Live Demo
 
-Check out the live demo of my portfolio website [here](https://sagnik-bose-portfolio.vercel.app/).
+Check out the live demo of my portfolio website [here](https://prasathf4u-portfolio.vercel.app/).
 
 ## Features
 
